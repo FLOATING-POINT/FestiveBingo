@@ -8,12 +8,12 @@ Features
 - Random count down effect
 - Drawn numbers are highlighted in the table
 - Game state always saved automatically in the local storage (only supported for browsers with local storage capability)
-- No installation is required, simply download and run
-- 3D Buttons :P
+- No installation is required, simply download, unzip and open index.html in your favourite browser
+
 
 Dependencies
 ------------
-- JQuery (licensed under MIT license)
+None
 
 Version
 --------
@@ -29,5 +29,5 @@ Screenshot
 ![Screenshot](/screenshots/screenshot.png)
 
 
-[bingo game]:http://en.wikipedia.org/wiki/Bingo_(U.S.)
+
 
